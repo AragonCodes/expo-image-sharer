@@ -1,26 +1,20 @@
 {
   "expo": {
-    "name": "first-project",
-    "slug": "first-project",
-    "platforms": [
-      "ios",
-      "android",
-      "web"
-    ],
+    "name": "Image Sharer",
+    "slug": "image-sharer",
+    "platforms": ["ios", "android", "web"],
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#000000"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     }
